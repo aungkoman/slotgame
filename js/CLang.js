@@ -1,0 +1,20 @@
+TEXT_MONEY     = "ငွေ";
+TEXT_PLAY      = "ကစားမည်";
+TEXT_BET       = "လောင်း";
+TEXT_COIN      = "ဒင်းဂါး";
+TEXT_MAX_BET   = "အများဆုံး";
+TEXT_INFO      = "သတင်း";
+TEXT_LINES     = "လိုင်း";
+TEXT_SPIN      = "လှည့်";
+TEXT_WIN       = "နိုင်ပြီ";
+TEXT_HELP_WILD = "ဒီပုံက တော့ သင်ကြိုက်တဲ့ ပုံနဲ့ ပြန်ပြောင်းပြီး အများဆုံး combo ဖြစ်အောင် လုပ်လို့ရပါတယ်";
+TEXT_CREDITS_DEVELOPED = "DEVELOPED BY";
+TEXT_CURRENCY = "ကျပ်";
+TEXT_PRELOADER_CONTINUE = "စတင်မည်";
+
+TEXT_SHARE_IMAGE = "200x200.jpg";
+TEXT_SHARE_TITLE = "ဂုဏ်ယူပါတယ်!";
+TEXT_SHARE_MSG1 = "သင်ရရှိသမျှ  <strong>";
+TEXT_SHARE_MSG2 = " points</strong>!<br><br>အမှတ်ကို သူငယ်ချင်းများစီ မျှဝေမည်!";
+TEXT_SHARE_SHARE1 = "ရမှတ် ";
+TEXT_SHARE_SHARE2 = " ဒင်းဂါး! ပိုကောင်းအောင် လုပ်နိုင်မလား?";
